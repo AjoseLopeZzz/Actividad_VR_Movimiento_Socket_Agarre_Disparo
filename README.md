@@ -2,7 +2,7 @@ Necesitas descargar:
 
 Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator 
 
-Se puede descargar desde el Package Manager (despues te metes a "Samples" y solo descargas los que dicen "import") 
+Se puede descargar desde el Package Manager (despues te metes a "Samples" y solo descargas los que dicen "reimport") 
 
 ![image](https://github.com/AjoseLopeZzz/Actividad_VR_Movimiento_Socket_Agarre_Disparo/assets/141409530/6d000d4d-82e3-4cdc-9aa6-92bf1cb1b476)
 
